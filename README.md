@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://flutter.io/">
+  <a href="https://github.com/JirayuJanlert/shiangkongPosApplication-senior-project">
     <img src="https://storage.googleapis.com/first_singto_bucket/senior_project/logo.png" alt="Logo" width=72 height=72>
   </a>
 
@@ -8,7 +8,7 @@
   <p align="center">
     Part or BIS4996 BIS Senior Project
     <br>
-    This POS application is developed to computerize and speed up business process of S. Shiangkong Motor Spare Parts Store
+    This POS application is developed to computerize <br>and speed up business process of S. Shiangkong Motor Spare Parts Store
   </p>
 </p>
 
@@ -16,16 +16,35 @@
 ## Table of contents
 
 - [Quick start](#quick-start)
+- [What's included](#whats-included)
 - [Prerequisites](#prerequisites)
 - [Supported platforms](#supported-platforms)
-- [What's included](#whats-included)
+- [Run the application](#Run-the-application)
 - [Creators](#creators)
 - [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
 
 ## Quick start
 
 This application is developed using Flutter. You should follow the instructions in the [official documentation](https://flutter.io/docs/get-started/install).
+
+## What's included
+
+* Add new product page
+* Update product information page
+* Main POS page
+* Check out page
+* Order confirmation 
+* Order summary page
+* Printing receipt function on POS blutooth thermal printer
+* Scan product barcode
+* Add and retreive customer
+* Order history page
+* Order reordering 
+* Product detail page
+* Claim accepting form
+* Verify and approve claim
+* Stock Management page
+* Management report dashboard
 
 ## Prerequisites
 This example makes use of a backend, to setup a backend and make it reachable on the internet we decided
@@ -54,25 +73,6 @@ Moreover, you need to install Flutter sdk version >2.0, Android Studio, and Xcod
 * ~~Web~~ (not yet)
 
 
-## What's included
-
-* Add new product page
-* Update product information page
-* Main POS page
-* Check out page
-* Order confirmation 
-* Order summary page
-* Printing receipt function on POS blutooth thermal printer
-* Scan product barcode
-* Add and retreive customer
-* Order history page
-* Order reordering 
-* Product detail page
-* Claim accepting form
-* Verify and approve claim
-* Stock Management page
-* Management report dashboard
-
 ### Run the application
 Connect a device and/or emulator and run the Flutter application on it.
 
@@ -83,7 +83,9 @@ Run the following command:
 ## Creators
 
 **Jirayu Janlert**
+<br>
 **Tanaporn Tipnate**
+<br>
 **Thitima Suthakulwirat**
 
 - <https://github.com/JirayuJanlert>
