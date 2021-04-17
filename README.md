@@ -53,9 +53,9 @@ running. However, we will be running the AWS EC2 only untill 31/04/2021. You can
 
 After that period, If you wish to use this application:
 1. Install Node-Red on your local machine
-2. You must import the Node-Red project file which included in project folder "node-red.json" at Node-Red console which can be access at [http://127.0.0.1:1880](http://127.0.0.1:1880) on your browser.
+2. You must import the Node-Red project file which included in Resource folder "node-red.json" at Node-Red console which can be access at [http://127.0.0.1:1880](http://127.0.0.1:1880) on your browser.
 3. Install Xammp or Mamp to run MySql server
-4. The sql database file is also attatched in project folder. You must also import the sql database file at [PhpMyadmin](http://127.0.0.1/phpmyadmin) on your local machine.
+4. The sql database file "sqldb.sql" is also located in Resource folder. You must also import the sql database file at [PhpMyadmin](http://127.0.0.1/phpmyadmin) on your local machine.
 5. You may need to configure port number, username, and password of MySql node on Node-Red according to your MySql server.
 
 Moreover, you need to install Flutter sdk version >2.0, Android Studio, and Xcode for IOS. You can visit the documentation for the mentioned prerequisite tools at the below links. 
