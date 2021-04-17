@@ -40,7 +40,7 @@ class _StockPageState extends State<StockPage> {
           print(value.toString());
           // print(picker.getSelectedValues());
           agent.filterStock(value.toString());
-
+          selectedIndex = 0;
           // o.filterBorders(value.toString());
         }
     );
@@ -167,7 +167,7 @@ class _StockPageState extends State<StockPage> {
                 leading: CircleAvatar(
                     backgroundColor: royalblue,
                     radius: 25,
-                    child: agent.getImage(agent.products[index].pics)),
+                    child: agent.getImage(agent.stockProducts[index].pics)),
                 title: Text(agent.stockProducts[index].productName),
                 subtitle: Text(agent.stockProducts[index].category
                 ),
