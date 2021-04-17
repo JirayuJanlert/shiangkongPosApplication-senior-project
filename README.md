@@ -47,8 +47,8 @@ This application is developed using Flutter. You should follow the instructions 
 * Management report dashboard
 
 ## Prerequisites
-This example makes use of a backend, to setup a backend and make it reachable on the internet we decided
-to use Node-Red which is installed on AWS EC2 in this project. Therefore you don't need to do some setup steps to get this example up and
+This application makes use of a backend, to setup a backend and make it reachable on the internet we decided
+to use Node-Red which is installed on AWS EC2 in this project. Therefore, you don't need to do some setup steps to get this application up and
 running. However, we will be running the AWS EC2 only untill 31/04/2021. You can access Node-Red console at [http://13.250.64.212:1880](http://13.250.64.212:1880),
 
 After that period, If you wish to use this application:
