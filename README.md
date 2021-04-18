@@ -74,7 +74,7 @@ Moreover, you need to install Flutter sdk version >2.0, Android Studio, and Xcod
 * ~~Web~~ (not yet)
 
 
-### Run the application
+## Run the application
 Connect a device and/or emulator and run the Flutter application on it.
 
 Run the following command:
