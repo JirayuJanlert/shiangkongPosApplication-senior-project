@@ -5,7 +5,7 @@
 
   <h3 align="center">S. Shiangkong Motor Sales Order and Billing Mobile Application</h3>
   
-  <div align="center"<img src="https://user-images.githubusercontent.com/67780932/115137546-eed9a180-a050-11eb-9614-0c9045ab8458.PNG"></div>
+  <div align="center"<img src="https://user-images.githubusercontent.com/67780932/115137546-eed9a180-a050-11eb-9614-0c9045ab8458.PNG" width=102 height=302></div>
 
   <p align="center">
     Part or BIS4996 BIS Senior Project
