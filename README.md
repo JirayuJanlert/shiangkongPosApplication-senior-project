@@ -52,11 +52,12 @@ to use Node-Red which is installed on AWS EC2 in this project. Therefore, you do
 running. However, we will be running the AWS EC2 only untill 31/04/2021. You can access Node-Red console at [http://13.250.64.212:1880](http://13.250.64.212:1880),
 
 After that period, If you wish to use this application:
-1. Install Node-Red on your local machine
-2. You must import the Node-Red project file which included in Resource folder "node-red.json" at Node-Red console which can be access at [http://127.0.0.1:1880](http://127.0.0.1:1880) on your browser.
-3. Install Xammp or Mamp to run MySql server
-4. The sql database file "sqldb.sql" is also located in Resource folder. You must also import the sql database file at [PhpMyadmin](http://127.0.0.1/phpmyadmin) on your local machine.
-5. You may need to configure port number, username, and password of MySql node on Node-Red according to your MySql server.
+1. Install Xammp or Mamp to run MySql server
+2. The sql database file "sqldb.sql" is also located in Resource folder. You must also import the sql database file at [PhpMyadmin](http://127.0.0.1/phpmyadmin) on your local machine.
+3. Install Node-Red on your local machine
+4. You must import the Node-Red project file which included in Resource folder "node-red.json" at Node-Red console which can be access at [http://127.0.0.1:1880](http://127.0.0.1:1880) on your browser.
+6. You may need to configure port number, username, and password of MySql node on Node-Red according to your MySql server.
+7. Modify url variable in all xxx.dart files located in lib/Store folder to match your IP address. You can check your IP address by typing "ipconfig" or "ifconfig" in your terminal or command prompt.
 
 Moreover, you need to install Flutter sdk version >2.0, Android Studio, and Xcode for IOS. You can visit the documentation for the mentioned prerequisite tools at the below links. 
 
